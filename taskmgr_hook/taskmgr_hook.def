@@ -1,0 +1,6 @@
+; taskmgr_hook.def : 声明 DLL 的模块参数。
+
+LIBRARY      "taskmgr_hook"
+
+EXPORTS
+    ; 此处可以是显式导出
